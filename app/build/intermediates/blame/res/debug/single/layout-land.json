@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\mycodes\\android-apidemos-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\grid_layout_2.xml",
+        "source": "C:\\Users\\lenovo\\mycodes\\android-apidemos-master\\app\\src\\main\\res\\layout-land\\grid_layout_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\mycodes\\android-apidemos-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_arguments.xml",
+        "source": "C:\\Users\\lenovo\\mycodes\\android-apidemos-master\\app\\src\\main\\res\\layout-land\\fragment_arguments.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\mycodes\\android-apidemos-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_layout.xml",
+        "source": "C:\\Users\\lenovo\\mycodes\\android-apidemos-master\\app\\src\\main\\res\\layout-land\\fragment_layout.xml"
+    }
+]

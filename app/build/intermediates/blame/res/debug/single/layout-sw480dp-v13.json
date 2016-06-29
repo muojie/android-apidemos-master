@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\mycodes\\android-apidemos-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp-v13\\resources_smallest_width_inner.xml",
+        "source": "C:\\Users\\lenovo\\mycodes\\android-apidemos-master\\app\\src\\main\\res\\layout-sw480dp\\resources_smallest_width_inner.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\mycodes\\android-apidemos-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp-v13\\resources_smallest_width_row.xml",
+        "source": "C:\\Users\\lenovo\\mycodes\\android-apidemos-master\\app\\src\\main\\res\\layout-sw480dp\\resources_smallest_width_row.xml"
+    }
+]
